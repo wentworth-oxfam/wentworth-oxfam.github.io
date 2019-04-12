@@ -1,1 +1,1 @@
-var pubDir = ['a', 'b', 'c', 'test-chris-oxa', 'email-deliverability', 'organic-main-donation-cr', 'website-content', 'daily-organic-traffic', 'oxfam-web-analytics']
+var pubDir = ['a', 'b', 'c', 'oxfam-web-analytics', 'test-chris-oxa', 'organic-main-donation-cr', 'email-deliverability', 'daily-organic-traffic', 'website-content']
