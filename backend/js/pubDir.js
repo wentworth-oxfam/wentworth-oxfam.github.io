@@ -1,0 +1,1 @@
+var pubDir = ['a','b','c']
